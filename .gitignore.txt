@@ -1,0 +1,2 @@
+#Ignore .Terraform Folder
+.Terraform
